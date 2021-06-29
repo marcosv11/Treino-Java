@@ -1,11 +1,11 @@
-package array;
+package lambdas;
 
 import java.util.ArrayList;
 
 import herança.Conta;
 import herança.ContaCorrente;
 
-public class TesteArrayList {
+public class lambdas {
 
 	public static void main(String[] args) {
 
